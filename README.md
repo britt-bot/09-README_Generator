@@ -33,6 +33,7 @@ See "projectREADME.md" for full README.me
 
 # Questions
 You can find me on GitHub here:
-britt-bot
+@britt-bot
+
 You can email me here:
 eccentricmeraki@gmail.com
