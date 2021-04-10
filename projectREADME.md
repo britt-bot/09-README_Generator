@@ -18,9 +18,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 09 - README Generator Repo](https://github.com/britt-bot/08-updated_portfolio)
+[Homework 09 - README Generator Repo](https://github.com/britt-bot/09-README_Generator)
 
-[Homework 09 - README Generator Deployed](https://britt-bot.github.io/08-Updated_Portfolio/)
+[Homework 09 - README Generator Deployed](https://britt-bot.github.io/09-README_Generator/)
 
 
 ## Usage 
