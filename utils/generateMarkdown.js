@@ -85,6 +85,7 @@ ${renderLicenseLink(data.license)}
 # Questions
 You can find me on GitHub here:
 ${data.username}
+
 You can email me here:
 ${data.email}
 `;

@@ -28,7 +28,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Enter Contribution Guidelines',
+      message: 'Enter Any Contribution Credits',
       name: 'contribution',
     },
     {
