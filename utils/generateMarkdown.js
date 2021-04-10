@@ -3,9 +3,9 @@ const noLicense = "";
 
 function renderLicenseBadge(license) {
   if(license === "MIT") {
-    return `![Mozilla](https://img.shields.io/badge/License-MIT-yellow.svg)`;
+    return `![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)`;
   } else if (license === "Mozilla") {
-    return `![IBM](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)`;
+    return `![MOZILLA](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)`;
   } else if (license === "IBM") {
     return `![IBM](https://img.shields.io/badge/License-IPL%201.0-blue.svg)`;
   } else if (license === "WTFPL") {
