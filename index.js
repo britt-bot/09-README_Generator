@@ -49,7 +49,7 @@ inquirer
     },
     {
       type: 'input',
-      message: 'Enter email address.',
+      message: 'Enter Email Address.',
       name: 'email',
     },
   ])
