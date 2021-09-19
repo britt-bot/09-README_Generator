@@ -1,3 +1,4 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 09-README_Generator
 ## Description 
 
@@ -18,9 +19,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 09 - README Generator Repo](https://github.com/britt-bot/09-README_Generator)
+[Homework 09 - README Generator Github Repo](https://github.com/britt-bot/09-README_Generator)
 
-[Homework 09 - README Generator Deployed](https://britt-bot.github.io/09-README_Generator/)
+[Homework 09 - README Generator Github Deploy](https://britt-bot.github.io/09-README_Generator/)
 
 
 ## Usage 
