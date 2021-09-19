@@ -19,9 +19,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 09 - README Generator Github Repo](https://github.com/britt-bot/09-README_Generator)
+[README Generator Github Repo](https://github.com/britt-bot/09-README_Generator)
 
-[Homework 09 - README Generator Github Deploy](https://britt-bot.github.io/09-README_Generator/)
+[README Generator Github Deploy](https://britt-bot.github.io/09-README_Generator/)
 
 
 ## Usage 
@@ -31,6 +31,7 @@ A README is a document used to explain an application. Including what the app is
 ![Screenshot](https://user-images.githubusercontent.com/77466708/114288472-dd334100-9a35-11eb-9592-b081720022dd.png)
 
 ![Screenshot1](https://user-images.githubusercontent.com/77466708/114288474-dd334100-9a35-11eb-9240-43ce99008690.png)
+
 
 ## Credits
 
