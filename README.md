@@ -19,9 +19,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[README Generator Repo](https://github.com/britt-bot/09-README_Generator)
+[README Generator Repo](https://github.com/britt-bot/README_Generator)
 
-[README Generator Deploy](https://britt-bot.github.io/09-README_Generator/)
+[README Generator Deploy](https://britt-bot.github.io/README_Generator)
 
 
 ## Usage 
